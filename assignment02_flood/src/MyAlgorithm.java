@@ -1,5 +1,5 @@
 /**
- * Assignment 01 - Implementation of flood algorithm with confirmation
+ * Assignment 02 - Implementation of flood algorithm with confirmation
  * Group A01
  * @author Philip Raschke, 333883
  * @author Pietro Rancati, 0368002

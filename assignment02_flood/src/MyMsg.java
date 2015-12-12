@@ -1,5 +1,5 @@
 /**
- * Assignment 01 - The message used to comunicate between node
+ * Assignment 02 - The message used to comunicate between node
  * Group A01
  * @author Philip Raschke, 333883
  * @author Pietro Rancati, 0368002
