@@ -1,1 +1,0 @@
-"C:\Program Files (x86)\Java\jdk1.8.0_25\bin\java.exe" -jar C:\Teachnet\teachnet.jar --cp . --config myconfig.txt --compile
